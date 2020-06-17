@@ -1,6 +1,8 @@
 # Deep-Learning-Tracker
 Deep Learning Tracker to track the trajectory of the selected object. Undergraduate work.
 
+This file (main.tex) is launched using XeLaTeX compiler.
+
 ## Annotation
 
 Keywords: object tracking, quantization of weights, deep learning network, number of quantization levels, neurocomputer network.
