@@ -7,9 +7,9 @@ This file (main.tex) is launched using XeLaTeX compiler.
 
 Keywords: object tracking, quantization of weights, deep learning network, number of quantization levels, neurocomputer network.
  
-The object of study is a network, which refers to the type of deep training of a neurocomputer network.
+The object of the study is a network, which refers to the type of deep training of a neurocomputer network.
 
-Purpose of work: research, development and modification of the existing algorithm for tracking a moving object on a set of images in real time. It was achieved by modifying the DLT deep trust network using a weighting quantization algorithm.
+Purpose of the work: research, development and modification of the existing algorithm for tracking a moving object on a set of images in real time. It was achieved by modifying the DLT deep trust network using a weighting quantization algorithm.
 
 As a result, the number of quantization levels necessary for the quantization algorithm and acceptable tracking is obtained; An analysis of the effect of quantization on tracking an object is given.
 
